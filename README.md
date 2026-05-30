@@ -1,6 +1,16 @@
-# llama.cpp
-
 ![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)
+
+# important clarification:
+
+This is a project initiated through experimentation and development that seeks to break the paradigm of how language models are processed and loaded. The main objective is to allow users to load large language models on computers with limited resources. This is a fork of llama.cpp, primarily focused on the scientific investigation of how to load large models on computers lacking GPUs and RAM.
+
+- this project is purely scientific and research-based. Anyone can contribute and collaborate here.
+
+- It is important to note that this version of llama.cpp may be unstable; however, we will focus not only on making it work, but also on providing stability.
+
+Below is the full text of the README.md file for llama.cpp and it was originally written by the team of llama.cpp
+
+# llama.cpp
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/v/release/ggml-org/llama.cpp)](https://github.com/ggml-org/llama.cpp/releases)
